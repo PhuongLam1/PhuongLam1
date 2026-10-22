@@ -13,4 +13,4 @@ SystemVerilog, Python (cocotb), Icarus Verilog, Make, C
 
 ## Currently
 
-Building toward running my CPU on an FPGA board and looking for hardware / FPGA internships.
+Building toward running my CPU on an FPGA board
